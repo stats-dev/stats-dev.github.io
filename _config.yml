@@ -97,13 +97,15 @@ author:
   avatar           : "/images/unsplash-image-6.jpg"
   bio              : "Become a CogNeuro Data Scientist."
   location         : "Seoul, Korea"
-  email            :
+  email            : "wifilibe@gmail.com"
+  github           : "stats-dev"
+  linkedin         : "HoHyun Kang"
   links:
     - label: "Email"
-      icon: "wifilibe@gmail.com"
+      icon: ""
       # url: mailto:your.name@email.com
     - label: "Website"
-      icon: "https://stats-dev.github.io"
+      icon: ""
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
