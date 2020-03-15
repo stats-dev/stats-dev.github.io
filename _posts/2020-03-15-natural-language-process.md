@@ -3,7 +3,7 @@ title: "Machine Learning and Natural Language Process"
 date : 2020-03-15
 tags : [machine learning, data science, nlp]
 header:
-  #image: "/images/06-02-04.png"
+  image: "/images/fig-3-21.png"
 excerpt: "Machine Learning, Data Science, NLP"
 mathjax: "true"
 ---
@@ -48,12 +48,14 @@ head(df1)
 
 incline code `x+y`
 
-image is ok:
-<img src = "/images/06-02-04.png", alt="linearly separable space">
+image is ok:  
+
+<img src="/images/fig-3-21.png", alt="linearly separable space">
 
 ![alt](/images/06-02-04.png)
 
 Here's math:
+
 $$x+y = z$$
 
-incline $x+y={z \over y}$
+incline $x+y=z$ updates.
