@@ -6,10 +6,6 @@ header:
   image: "/images/fig-1-33.png"
 excerpt: "Machine Learning, Data Science, NLP"
 mathjax: "true"
-header:
-  video:
-    id: XsxDH4HcOWA
-    provider: youtube
 ---
 # H1 Heading
 
