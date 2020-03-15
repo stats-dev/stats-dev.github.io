@@ -3,7 +3,7 @@ title: "Machine Learning and Natural Language Process"
 date : 2020-03-15
 tags : [machine learning, data science, nlp]
 header:
-  image: "/images/fig-1-33.png"
+  #image: "/images/fig-1-33.png"
 excerpt: "Machine Learning, Data Science, NLP"
 mathjax: "true"
 ---
