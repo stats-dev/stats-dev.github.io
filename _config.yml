@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "강호현(HoHyun Kang)"
-  avatar           : "/image/unsplash-image-6.jpg"
+  avatar           : "/images/bio-photo.jpg"
   bio              : "Become a Cognitive NeuroData Scientist."
   location         : "Seoul, Korea"
   email            :
