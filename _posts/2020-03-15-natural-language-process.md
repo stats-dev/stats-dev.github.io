@@ -3,9 +3,13 @@ title: "Machine Learning and Natural Language Process"
 date : 2020-03-15
 tags : [machine learning, data science, nlp]
 header:
-  image: "/images/fig-3-21.png"
+  image: "/images/fig-1-33.png"
 excerpt: "Machine Learning, Data Science, NLP"
 mathjax: "true"
+header:
+  video:
+    id: XsxDH4HcOWA
+    provider: youtube
 ---
 # H1 Heading
 
@@ -50,7 +54,8 @@ incline code `x+y`
 
 image is ok:  
 
-<img src="/images/fig-3-21.png", alt="linearly separable space">
+<img src="{{ site.url }}{{ site.baseurl }}/images/fig-3-21.png" alt="inearly separable space">
+
 
 ![alt](/images/06-02-04.png)
 
@@ -58,4 +63,7 @@ Here's math:
 
 $$x+y = z$$
 
-incline $x+y=z$ updates.
+incline $$x+y=z$$ updates.
+
+video Youtube ok:
+{% include video id="XsxDH4HcOWA" provider="youtube" %}
