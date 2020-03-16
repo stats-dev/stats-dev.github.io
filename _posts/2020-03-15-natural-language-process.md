@@ -6,7 +6,12 @@ header:
   #image: "/images/fig-1-33.png"
 excerpt: "Machine Learning, Data Science, NLP"
 mathjax: "true"
+toc: true
+toc_label: "My Table of Contents"
+toc_icon: "cog"
 ---
+{% include toc %}
+
 # H1 Heading
 
 ## H2 Heading
