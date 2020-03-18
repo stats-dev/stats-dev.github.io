@@ -1,6 +1,5 @@
 ---
 title: "Text Analysis and Kaggle"
-permalink: /machine-learning/
 date : 2020-03-18
 tags : [data science, python, kaggle]
 header:
