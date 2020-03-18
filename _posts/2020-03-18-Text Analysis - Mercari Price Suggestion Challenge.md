@@ -429,7 +429,7 @@ gc.collect() # gc.collect()로 결합 데이터를 즉시 삭제한다. 활용�
 
 * 평가 지표 : RMSLE(Root Mean Square Log Error)
 
-$$\epsilon = \sqrt{{1 \over n} \sum_{i=1}^n (\log (p_i +1) - \log(a_i + 1))^2}$$
+$$\epsilon = \sqrt{{\frac {1}{n}} \sum_{i=1}^n (\log (p_i +1) - \log(a_i + 1))^2}$$
 
 
 ```python
