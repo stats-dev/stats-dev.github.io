@@ -151,7 +151,7 @@ sns.distplot(y_train_df, kde=False)
 
 
 
-![png](output_6_1.png)
+![png](../images/output_6_1.png)
 
 
 * price 값이 0에 가까운 값에 많이 분포한다.(왜곡된 형태)
@@ -173,7 +173,7 @@ sns.distplot(y_train_df, kde=False)
 
 
 
-![png](output_8_1.png)
+![png](../images/output_8_1.png)
 
 
 * 로그 변환을 통해 비교적 정규 분포에 가까운 분포를 가진다.
