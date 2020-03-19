@@ -134,7 +134,9 @@ $$min \sum(r_{(u,i)} - p_u q_i^t)^2 + \lambda(||q_i||^2 + ||p_u||^2)$$
 * 업데이트된 p, q
 
 $$p'_u = p_u + \eta (e_{(u,i)} * q_i - \lambda * p_u) $$
+
 $$q'_i = q_i + \eta (e_{(u,i)} * p_u - \lambda * q_i) $$
+
 $$e_{(u, i)} = r_{(u, i)} - \hat{r}_{(u, i)}$$
 
 
